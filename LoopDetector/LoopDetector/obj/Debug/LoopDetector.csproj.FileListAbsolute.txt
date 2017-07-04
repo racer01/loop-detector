@@ -1,0 +1,6 @@
+C:\Users\racer01\Documents\Codecool\C#\0703\LoopDetector\LoopDetector\bin\Debug\LoopDetector.exe.config
+C:\Users\racer01\Documents\Codecool\C#\0703\LoopDetector\LoopDetector\bin\Debug\LoopDetector.exe
+C:\Users\racer01\Documents\Codecool\C#\0703\LoopDetector\LoopDetector\bin\Debug\LoopDetector.pdb
+C:\Users\racer01\Documents\Codecool\C#\0703\LoopDetector\LoopDetector\obj\Debug\LoopDetector.csprojResolveAssemblyReference.cache
+C:\Users\racer01\Documents\Codecool\C#\0703\LoopDetector\LoopDetector\obj\Debug\LoopDetector.exe
+C:\Users\racer01\Documents\Codecool\C#\0703\LoopDetector\LoopDetector\obj\Debug\LoopDetector.pdb
